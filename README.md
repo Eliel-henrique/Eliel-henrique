@@ -21,8 +21,6 @@
   <a href="https://instagram.com/elielhenriquedepaula" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a href = "mailto:elielhenriquedepaula07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
- 
- 
-  ![Animação de cobra](https://github.com/Eliel-henrique/Eliel-henrique/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
